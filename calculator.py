@@ -22,4 +22,4 @@ while True:
     elif z=="no" and "NO" and "No":
         print("Thank You for using this calculator")
         break
-
+#nn
